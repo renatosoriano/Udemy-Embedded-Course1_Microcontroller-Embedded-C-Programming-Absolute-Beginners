@@ -1,0 +1,8 @@
+00:13:49 **** Clean-only build of configuration Debug for project ASCII ****
+make clean 
+rm -rf ./ASCII_new.d ./ASCII_new.o
+rm -rf ASCII
+ 
+
+00:13:49 Build Finished. 0 errors, 0 warnings. (took 258ms)
+

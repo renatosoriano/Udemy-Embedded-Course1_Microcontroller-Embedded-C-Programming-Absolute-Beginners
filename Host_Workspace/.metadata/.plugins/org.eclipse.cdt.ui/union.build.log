@@ -1,0 +1,8 @@
+00:16:28 **** Clean-only build of configuration Debug for project union ****
+make clean 
+rm -rf ./main.d ./main.o
+rm -rf union
+ 
+
+00:16:29 Build Finished. 0 errors, 0 warnings. (took 183ms)
+

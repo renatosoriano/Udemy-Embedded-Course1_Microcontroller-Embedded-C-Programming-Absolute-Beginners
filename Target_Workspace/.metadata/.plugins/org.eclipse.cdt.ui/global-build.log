@@ -1,0 +1,6 @@
+00:40:14 **** Clean-only build of configuration Debug for project 013led_toggle_with_macros ****
+make -j9 clean 
+rm -rf ./Startup/startup_stm32f446retx.d ./Startup/startup_stm32f446retx.o
+rm -rf ./Src/main.d ./Src/main.o ./Src/main.su ./Src/syscalls.d ./Src/syscalls.o ./Src/syscalls.su ./Src/sysmem.d ./Src/sysmem.o ./Src/sysmem.su
+rm -rf 013led_toggle_with_macros.elf 013led_toggle_with_macros.list 013led_toggle_with_macros.map default.size.stdout
+ 

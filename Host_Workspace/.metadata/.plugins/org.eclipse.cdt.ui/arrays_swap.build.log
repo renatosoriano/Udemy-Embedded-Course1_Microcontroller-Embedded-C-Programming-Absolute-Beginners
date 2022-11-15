@@ -1,0 +1,8 @@
+00:13:44 **** Clean-only build of configuration Debug for project arrays_swap ****
+make clean 
+rm -rf ./main.d ./main.o
+rm -rf arrays_swap
+ 
+
+00:13:44 Build Finished. 0 errors, 0 warnings. (took 185ms)
+

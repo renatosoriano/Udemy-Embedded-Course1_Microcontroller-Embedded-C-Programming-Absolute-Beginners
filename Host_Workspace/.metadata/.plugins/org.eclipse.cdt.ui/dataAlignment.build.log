@@ -1,0 +1,8 @@
+00:14:33 **** Clean-only build of configuration Debug for project dataAlignment ****
+make clean 
+rm -rf ./main.d ./main.o
+rm -rf dataAlignment
+ 
+
+00:14:34 Build Finished. 0 errors, 0 warnings. (took 197ms)
+

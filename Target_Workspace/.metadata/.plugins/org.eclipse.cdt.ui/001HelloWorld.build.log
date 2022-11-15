@@ -1,0 +1,9 @@
+00:35:05 **** Clean-only build of configuration Debug for project 001HelloWorld ****
+make -j9 clean 
+rm -rf ./Startup/startup_stm32f446retx.d ./Startup/startup_stm32f446retx.o
+rm -rf ./Src/main.d ./Src/main.o ./Src/main.su ./Src/syscalls.d ./Src/syscalls.o ./Src/syscalls.su ./Src/sysmem.d ./Src/sysmem.o ./Src/sysmem.su
+rm -rf 001HelloWorld.elf 001HelloWorld.list 001HelloWorld.map default.size.stdout
+ 
+
+00:35:05 Build Finished. 0 errors, 0 warnings. (took 195ms)
+

@@ -1,0 +1,9 @@
+00:39:21 **** Clean-only build of configuration Debug for project 008button_ISR ****
+make -j9 clean 
+rm -rf ./Startup/startup_stm32f446retx.d ./Startup/startup_stm32f446retx.o
+rm -rf ./Src/main.d ./Src/main.o ./Src/main.su ./Src/syscalls.d ./Src/syscalls.o ./Src/syscalls.su ./Src/sysmem.d ./Src/sysmem.o ./Src/sysmem.su
+rm -rf 008button_ISR.elf 008button_ISR.list 008button_ISR.map default.size.stdout
+ 
+
+00:39:21 Build Finished. 0 errors, 0 warnings. (took 181ms)
+

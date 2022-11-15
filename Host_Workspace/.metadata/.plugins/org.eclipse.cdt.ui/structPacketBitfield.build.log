@@ -1,0 +1,8 @@
+00:15:58 **** Clean-only build of configuration Debug for project structPacketBitfield ****
+make clean 
+rm -rf ./main.d ./main.o
+rm -rf structPacketBitfield
+ 
+
+00:15:59 Build Finished. 0 errors, 0 warnings. (took 285ms)
+

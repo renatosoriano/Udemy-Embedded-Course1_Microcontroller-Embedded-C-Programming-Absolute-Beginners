@@ -1,0 +1,8 @@
+00:15:40 **** Clean-only build of configuration Debug for project struct_array ****
+make clean 
+rm -rf ./main.d ./main.o
+rm -rf struct_array
+ 
+
+00:15:40 Build Finished. 0 errors, 0 warnings. (took 179ms)
+

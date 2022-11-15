@@ -1,0 +1,9 @@
+00:38:43 **** Clean-only build of configuration Debug for project 004led_on ****
+make -j9 clean 
+rm -rf ./Startup/startup_stm32f446retx.d ./Startup/startup_stm32f446retx.o
+rm -rf ./Src/main.d ./Src/main.o ./Src/main.su ./Src/syscalls.d ./Src/syscalls.o ./Src/syscalls.su ./Src/sysmem.d ./Src/sysmem.o ./Src/sysmem.su
+rm -rf 004led_on.elf 004led_on.list 004led_on.map default.size.stdout
+ 
+
+00:38:43 Build Finished. 0 errors, 0 warnings. (took 184ms)
+

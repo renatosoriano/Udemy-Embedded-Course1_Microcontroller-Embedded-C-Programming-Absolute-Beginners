@@ -1,0 +1,8 @@
+00:13:27 **** Clean-only build of configuration Debug for project arrays ****
+make clean 
+rm -rf ./main.d ./main.o
+rm -rf arrays
+ 
+
+00:13:27 Build Finished. 0 errors, 0 warnings. (took 242ms)
+

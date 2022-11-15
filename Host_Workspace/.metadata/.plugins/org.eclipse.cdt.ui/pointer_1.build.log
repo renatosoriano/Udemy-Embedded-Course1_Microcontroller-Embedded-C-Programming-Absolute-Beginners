@@ -1,0 +1,8 @@
+00:15:25 **** Clean-only build of configuration Debug for project pointer_1 ****
+make clean 
+rm -rf ./pointer.d ./pointer.o
+rm -rf pointer_1
+ 
+
+00:15:25 Build Finished. 0 errors, 0 warnings. (took 175ms)
+

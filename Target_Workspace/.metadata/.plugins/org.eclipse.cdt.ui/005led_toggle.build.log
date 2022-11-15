@@ -1,0 +1,9 @@
+00:38:53 **** Clean-only build of configuration Debug for project 005led_toggle ****
+make -j9 clean 
+rm -rf ./Startup/startup_stm32f446retx.d ./Startup/startup_stm32f446retx.o
+rm -rf ./Src/main.d ./Src/main.o ./Src/main.su ./Src/syscalls.d ./Src/syscalls.o ./Src/syscalls.su ./Src/sysmem.d ./Src/sysmem.o ./Src/sysmem.su
+rm -rf 005led_toggle.elf 005led_toggle.list 005led_toggle.map default.size.stdout
+ 
+
+00:38:53 Build Finished. 0 errors, 0 warnings. (took 322ms)
+

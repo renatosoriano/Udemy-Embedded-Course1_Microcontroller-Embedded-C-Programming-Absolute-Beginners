@@ -1,0 +1,9 @@
+00:39:11 **** Clean-only build of configuration Debug for project 007volatile ****
+make -j9 clean 
+rm -rf ./Startup/startup_stm32f446retx.d ./Startup/startup_stm32f446retx.o
+rm -rf ./Src/main.d ./Src/main.o ./Src/main.su ./Src/syscalls.d ./Src/syscalls.o ./Src/syscalls.su ./Src/sysmem.d ./Src/sysmem.o ./Src/sysmem.su
+rm -rf 007volatile.elf 007volatile.list 007volatile.map default.size.stdout
+ 
+
+00:39:11 Build Finished. 0 errors, 0 warnings. (took 183ms)
+

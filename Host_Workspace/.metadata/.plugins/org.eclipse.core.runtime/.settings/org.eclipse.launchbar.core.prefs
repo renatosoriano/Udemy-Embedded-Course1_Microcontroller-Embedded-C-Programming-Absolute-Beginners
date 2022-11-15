@@ -1,0 +1,14 @@
+LaunchTargetManager/org.eclipse.launchbar.core.launchTargetType.local,Local/arch=x86_64
+LaunchTargetManager/org.eclipse.launchbar.core.launchTargetType.local,Local/name=Local
+LaunchTargetManager/org.eclipse.launchbar.core.launchTargetType.local,Local/os=macosx
+configDescList=org.eclipse.launchbar.core.descriptorType.default\:Average,org.eclipse.launchbar.core.descriptorType.default\:ASCII,org.eclipse.launchbar.core.descriptorType.default\:pointer,org.eclipse.launchbar.core.descriptorType.default\:pointer_1,org.eclipse.launchbar.core.descriptorType.default\:pointer_2,org.eclipse.launchbar.core.descriptorType.default\:ifelseifTax,org.eclipse.launchbar.core.descriptorType.default\:bitWise2Numbers,org.eclipse.launchbar.core.descriptorType.default\:bitWiseEvenOdd,org.eclipse.launchbar.core.descriptorType.default\:bitWiseSet,org.eclipse.launchbar.core.descriptorType.default\:forloopNumberPyramid,org.eclipse.launchbar.core.descriptorType.default\:structInit,org.eclipse.launchbar.core.descriptorType.default\:dataAlignment,org.eclipse.launchbar.core.descriptorType.default\:structPointer,org.eclipse.launchbar.core.descriptorType.default\:structPacket,org.eclipse.launchbar.core.descriptorType.default\:structPacketBitfield,org.eclipse.launchbar.core.descriptorType.default\:union,org.eclipse.launchbar.core.descriptorType.default\:unionBitExraction,org.eclipse.launchbar.core.descriptorType.default\:arrays,org.eclipse.launchbar.core.descriptorType.default\:arrays_passing
+eclipse.preferences.version=1
+org.eclipse.launchbar.core.descriptorType.default\:Average/activeLaunchMode=run
+org.eclipse.launchbar.core.descriptorType.default\:Average/activeLaunchTarget=org.eclipse.launchbar.core.launchTargetType.local\:Local
+org.eclipse.launchbar.core.descriptorType.default\:bitWiseEvenOdd/activeLaunchMode=run
+org.eclipse.launchbar.core.descriptorType.default\:bitWiseEvenOdd/activeLaunchTarget=org.eclipse.launchbar.core.launchTargetType.local\:Local
+org.eclipse.launchbar.core.descriptorType.default\:pointer/activeLaunchMode=run
+org.eclipse.launchbar.core.descriptorType.default\:pointer/activeLaunchTarget=org.eclipse.launchbar.core.launchTargetType.local\:Local
+org.eclipse.launchbar.core.descriptorType.default\:structInit/activeLaunchMode=run
+org.eclipse.launchbar.core.descriptorType.default\:structInit/activeLaunchTarget=org.eclipse.launchbar.core.launchTargetType.local\:Local
+org.eclipse.launchbar.core.descriptorType.default\:structPointer/activeLaunchMode=run

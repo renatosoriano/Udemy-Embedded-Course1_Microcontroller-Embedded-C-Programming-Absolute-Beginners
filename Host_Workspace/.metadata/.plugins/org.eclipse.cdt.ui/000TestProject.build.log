@@ -1,0 +1,5 @@
+00:13:22 **** Clean-only build of configuration Debug for project 000TestProject ****
+rm -rf 000TestProject main.d main.o 
+
+00:13:23 Build Finished. 0 errors, 0 warnings. (took 303ms)
+

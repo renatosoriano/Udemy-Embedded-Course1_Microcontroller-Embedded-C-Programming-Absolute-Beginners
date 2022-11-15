@@ -1,0 +1,8 @@
+00:14:11 **** Clean-only build of configuration Debug for project bitWiseEvenOdd ****
+make clean 
+rm -rf ./main.d ./main.o
+rm -rf bitWiseEvenOdd
+ 
+
+00:14:11 Build Finished. 0 errors, 0 warnings. (took 177ms)
+

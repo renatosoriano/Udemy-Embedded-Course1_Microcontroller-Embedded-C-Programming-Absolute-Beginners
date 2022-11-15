@@ -1,0 +1,8 @@
+00:14:48 **** Clean-only build of configuration Debug for project ifelseBiggestOfTwo ****
+make clean 
+rm -rf ./main.d ./main.o
+rm -rf ifelseBiggestOfTwo
+ 
+
+00:14:48 Build Finished. 0 errors, 0 warnings. (took 183ms)
+

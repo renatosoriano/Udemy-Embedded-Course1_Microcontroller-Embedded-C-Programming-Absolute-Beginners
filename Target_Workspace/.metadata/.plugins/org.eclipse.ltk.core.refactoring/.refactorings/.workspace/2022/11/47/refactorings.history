@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Delete 14 resources" deleteContents="false" description="Delete 14 resources" element1="/000TestProject" element10="/009packed_Vsnonpacked" element11="/010led_toggle_bitfields" element12="/011keypad" element13="/012stringvariable_vs_stringliteral" element14="/013led_toggle_with_macros" element2="/001HelloWorld" element3="/002Sizeof" element4="/003Add" element5="/004led_on" element6="/005led_toggle" element7="/006pin_read" element8="/007volatile" element9="/008button_ISR" flags="7" id="org.eclipse.ltk.core.refactoring.delete.resources" resources="14" stamp="1668500899639"/>
+</session>

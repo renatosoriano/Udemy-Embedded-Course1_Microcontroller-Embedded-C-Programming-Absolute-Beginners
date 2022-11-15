@@ -1,0 +1,8 @@
+00:13:56 **** Clean-only build of configuration Debug for project Average ****
+make clean 
+rm -rf ./main_new.d ./main_new.o
+rm -rf Average
+ 
+
+00:13:56 Build Finished. 0 errors, 0 warnings. (took 183ms)
+

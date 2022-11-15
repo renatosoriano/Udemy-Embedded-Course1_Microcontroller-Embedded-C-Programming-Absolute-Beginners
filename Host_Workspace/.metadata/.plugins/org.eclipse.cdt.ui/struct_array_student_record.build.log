@@ -1,0 +1,8 @@
+00:15:45 **** Clean-only build of configuration Debug for project struct_array_student_record ****
+make clean 
+rm -rf ./main.d ./main.o
+rm -rf struct_array_student_record
+ 
+
+00:15:45 Build Finished. 0 errors, 0 warnings. (took 177ms)
+

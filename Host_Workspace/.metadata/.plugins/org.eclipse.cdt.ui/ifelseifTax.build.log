@@ -1,0 +1,8 @@
+00:15:02 **** Clean-only build of configuration Debug for project ifelseifTax ****
+make clean 
+rm -rf ./main.d ./main.o
+rm -rf ifelseifTax
+ 
+
+00:15:02 Build Finished. 0 errors, 0 warnings. (took 191ms)
+
