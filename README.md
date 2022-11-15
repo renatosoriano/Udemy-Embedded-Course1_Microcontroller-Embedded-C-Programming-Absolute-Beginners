@@ -3,11 +3,11 @@
 
 This repo contains notes and programming assignments for the Udemy's "[Microcontroller Embedded C Programming: Absolute Beginners](https://www.udemy.com/course/microcontroller-embedded-c-programming/)" course by FastBit Embedded Brain Academy.
 
-Date: October, 2022.
+Date: November, 2022.
 
 - The course is instructed by Engineer Kiran Nayak.
 
-- The [**Certificate**](https://github.com/renatosoriano/Coursera-Introduction-to-Embedded-Systems-Software-and-Development-Environments/blob/master/Certificate.pdf) is available. 
+- The [**Certificate**](https://github.com/renatosoriano/Udemy-Embedded-Course1_Microcontroller-Embedded-C-Programming-Absolute-Beginners/blob/main/Certificate.pdf) is available. 
 
 ## Descriptions
 
