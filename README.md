@@ -41,7 +41,7 @@ Some of the critical microcontroller-related 'C' concepts discussed with clear e
   * `Floating-point unit: None`
   * `Floating-point ABI: Software implementation ( -mfloat-abi=soft )`
 
-![FPU_warning.png](https://github.com/renatosoriano/Udemy-Embedded-Course1_Microcontroller-Embedded-C-Programming-Absolute-Beginners/blob/master/Images/FPU_warning.png)
+![alt text](https://github.com/renatosoriano/Udemy-Embedded-Course1_Microcontroller-Embedded-C-Programming-Absolute-Beginners/blob/master/Images/FPU_warning.png)
 
 * #### Setting up SWV ITM Data Console
 
@@ -97,7 +97,7 @@ __attribute__((weak)) int _write(int file, char *ptr, int len)
 
 After these steps navigate to Debug configuration and check `Serial Wire Viewer (SWV)` check box like on snapshot below
 
-![Debugger.png](https://github.com/renatosoriano/Udemy-Embedded-Course1_Microcontroller-Embedded-C-Programming-Absolute-Beginners/blob/master/Images/Debugger.png)
+![alt text](https://github.com/renatosoriano/Udemy-Embedded-Course1_Microcontroller-Embedded-C-Programming-Absolute-Beginners/blob/master/Images/Debugger.png)
 
 Once you enter *Debug* mode, go to `Window -> Show View -> SWV -> Select SWV ITM Data Console`. On this way `ITM Data Console` will be shown in *Debug* session.
 
