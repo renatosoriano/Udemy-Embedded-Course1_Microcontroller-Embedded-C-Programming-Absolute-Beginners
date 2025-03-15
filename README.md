@@ -9,6 +9,10 @@ Date: November, 2022.
 
 - The [**Certificate**](https://github.com/renatosoriano/Udemy-Embedded-Course1_Microcontroller-Embedded-C-Programming-Absolute-Beginners/blob/main/Certificate.pdf) is available. 
 
+- The [**C Language Coding Exercises**](https://github.com/renatosoriano/Udemy-Embedded-Course1_Microcontroller-Embedded-C-Programming-Absolute-Beginners/tree/main/Host_Workspace) are available. 
+
+- The [**Embedded Microcontroller Coding Exercises**](https://github.com/renatosoriano/Udemy-Embedded-Course1_Microcontroller-Embedded-C-Programming-Absolute-Beginners/tree/main/Target_Workspace) are available. 
+
 ## Descriptions
 
 This course is mainly targeted for absolute beginners to learn microcontroller programming using the 'C ' programming language.
