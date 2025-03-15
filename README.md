@@ -1,5 +1,5 @@
 
-# Microcontroller Embedded C Programming: Absolute Beginners
+## Microcontroller Embedded C Programming: Absolute Beginners
 
 This repo contains notes and programming assignments for the Udemy's "[Microcontroller Embedded C Programming: Absolute Beginners](https://www.udemy.com/course/microcontroller-embedded-c-programming/)" course by FastBit Embedded Brain Academy.
 
